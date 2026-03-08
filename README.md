@@ -1,5 +1,7 @@
-## 👋 Hi, I'm Dani! I build small games and useful little tools.
-- 💻 I build games and tools because shipping small weird things makes me happy.
-- 🧩 Lately, I've been rediscovering the joy of building games and tiny systems from scratch.
-- 🎮 Currently hacking on Dustlight, a cozy little game experiment that's teaching me a lot.
-- 🚀 Slowly building in public again, it's fun to be back in this space and coding for fun!
+Hi, I'm Dani. I build software, small games, and useful tools.
+
+- 💻 Full-stack engineer who likes messy systems, small experiments, and shipped projects
+- ✨ I build games and tools because making weird little things is fun
+- 🎮 Currently building Dustlight, a tiny TypeScript game experiment
+- 🌱 Slowly rebuilding in public and enjoying being back in this space
+- 
